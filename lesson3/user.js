@@ -1,5 +1,4 @@
 class User {
-    // Don't test
     constructor(details) {
         const { firstName, lastName } = details
 
